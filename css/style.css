@@ -1,0 +1,27 @@
+body{
+    background-color: coral;
+}
+.lesson {
+    background-color: darkgrey;
+}
+
+h1{
+    color: aqua;
+}
+#name {
+    font-family: 'Times New Roman', Times, serif;
+    color:bisque;
+}
+#contact{
+    color:aqua;
+    font-weight: bolder;
+}
+#email{
+    background-color: burlywood;
+}
+#github{
+    background-color: aquamarine;
+}
+#portfolio{
+    background-color:crimson;
+}
