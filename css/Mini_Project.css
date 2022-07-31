@@ -1,0 +1,98 @@
+ul{
+    text-align:right;
+    background-color:darkgray;
+    display: block;
+    width:97.5%;
+    height:100%;
+  
+}
+hr{
+    border-bottom: 20px solid brown;
+    margin-top: -18px;
+
+}
+li {
+    /*removes bullet point*/
+    list-style-type: none;
+    display:inline;
+  }
+/* styles linked text */
+a{
+    color: azure;
+}
+
+section {
+    text-align: center;
+}
+
+.background{
+    background-color: blanchedalmond;
+}
+
+body{
+    background-color: beige;
+}
+
+.outer_box{
+    margin:auto;
+    border: 10px solid rgb(69, 41, 3);
+    width: 40%;
+    height: 40%;
+}
+
+.middle_box{
+    margin:auto;
+    border: 10px solid wheat;
+    width: 90%;
+    height: 90%;
+}
+
+.inner_box{
+    margin:auto;
+    padding: 5px;
+    border: 10px solid burlywood;
+    width: 90%;
+    height: 90%;
+    background-color: chocolate;
+}
+
+img{
+    object-fit:fill;
+    margin: auto;
+}
+
+.description{
+    font-family: "Comic Sans Ms" !important;
+}
+
+.contact_form{
+    display: block;
+    width: 350px;
+    height:200px;
+    border: groove dimgray 1px;
+    border-radius: 10%;
+    padding: 20px;
+    margin: auto;
+    margin-top: 50px;
+    background-color: beige;
+}
+
+div {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 5px;    
+}
+
+input{
+    display:inline-block;
+    margin-left: 5px;
+    box-sizing: border-box;
+}
+
+.submit{
+    margin:auto;
+}
+
+h3{
+    text-align: center;
+}

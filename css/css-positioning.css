@@ -34,6 +34,7 @@ body {
     height: 600px;
     margin: 20px auto;
     border: 15px solid black;
+    z-index: 0;
   }
   #box-1{
     position: sticky;
